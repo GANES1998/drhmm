@@ -1,0 +1,5 @@
+typhoid-24
+diseases-1307
+malaria-233
+dengue-33
+cholera-393

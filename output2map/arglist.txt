@@ -1,0 +1,2 @@
+diseases_list = ["amoebiasis","typhoid","dengue","malaria","cholera","diseases"]
+symptoms_list = ["fever","cold","headache","stomach","rash","vomiting","dysentry"]
